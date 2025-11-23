@@ -82,3 +82,4 @@ To ensure the application is working correctly, you can follow these simple test
 1.  **Exit (Option 4):**
 2.  **Expected Result:** The program should print the farewell message and gracefully terminate the process.
 
+![image alt](https://github.com/Manu-Singh-30/Vityarthi/blob/0e5a959a4188b4d7d0670109c76595164e85d1e0/Screenshot%202025-11-23%20at%2021.54.54.heic)

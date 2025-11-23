@@ -83,5 +83,4 @@ To ensure the application is working correctly, you can follow these simple test
 2.  **Expected Result:** The program should print the farewell message and gracefully terminate the process.
 
 ![Image](https://github.com/user-attachments/assets/37d5cc2f-7abc-4da3-91d7-eb32f75f8d6d)
-![Image](https://github.com/user-attachments/assets/dad9dd0d-6254-4ece-a6c8-7bab45fb8895)![Image](https://github.com/user-attachments/assets/dad9dd0d-6254-4ece-a6c8-7bab45fb8895)
-
+![Image](https://github.com/user-attachments/assets/dad9dd0d-6254-4ece-a6c8-7bab45fb8895)
